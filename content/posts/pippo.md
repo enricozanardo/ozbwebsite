@@ -28,4 +28,6 @@ Here is possible to learn how to combine the [Keix Community Edition](http://kei
 
 ![](/uploads/kall.png)
 
+{{< highlight go >}} A bunch of code here {{< /highlight >}}
+
  
