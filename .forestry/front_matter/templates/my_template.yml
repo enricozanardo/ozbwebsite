@@ -62,10 +62,14 @@ fields:
   config:
     use_select: true
     source:
-      type: documents
+      type: simple
       file: hugo/data/authors.yml
-      path: map
-      section: authors
+      path: ''
+      section: ''
+    options:
+    - Enrico Zanardo
+    - Danilo Torrisi
+    - Salvo Panarello
   default: []
 - type: list
   name: categories
@@ -75,15 +79,9 @@ fields:
     source:
       type: simple
     options:
-    - CMS
-    - Jekyll
-    - Hugo
-    - Static Sites
-    - Static Site Generators
-    - Company
-    - Frontend-Friday
-    - Beyond Static
-    - VuePress
+    - Machine-Learning
+    - Keix
+    - Blockchain
 - type: tag_list
   name: tags
   label: Tags
