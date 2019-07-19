@@ -138,6 +138,6 @@ fields:
   name: menu
   label: menu
 pages:
+- content/posts/pippo.md
 - content/posts/test.md
 - content/posts/my-first-post.md
-- content/posts/pippo.md
