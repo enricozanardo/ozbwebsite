@@ -28,9 +28,13 @@ textline = ""
 
 ### sadaasd
 
-    {{% expandable label="A section of dummy text" level="2" %}}
-    Here is some markdown including [a link](https://twitter.com/heydonworks). Donec erat est, feugiat a est sed, aliquet pharetra ipsum. Vivamus in arcu leo. Praesent feugiat, purus a molestie ultrices, libero massa iaculis ante, sit amet accumsan leo eros vel ligula.
-    {{% /expandable %}}
+    
+
+{{% expandable label="A section of dummy text" level="2" %}}
+
+Here is some markdown including \[a link\]([https://twitter.com/heydonworks](https://twitter.com/heydonworks "https://twitter.com/heydonworks")). Donec erat est, feugiat a est sed, aliquet pharetra ipsum. Vivamus in arcu leo. Praesent feugiat, purus a molestie ultrices, libero massa iaculis ante, sit amet accumsan leo eros vel ligula.
+
+{{% /expandable %}}
 
     asdsdazxczxc
     
