@@ -34,6 +34,10 @@ This is a note.
 
 {{% /note %}}
 
+    {{< cmd >}}
+    hugo server --gc
+    {{< /cmd >}}
+
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
  
