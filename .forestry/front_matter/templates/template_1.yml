@@ -15,6 +15,16 @@ fields:
     maxSize: 250
   label: page image
   description: header page image
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
+  description: page content
 pages:
 - content/free-coffee-page.md
 - admin/admin-page.md
