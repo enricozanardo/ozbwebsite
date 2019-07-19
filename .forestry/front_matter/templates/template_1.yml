@@ -2,10 +2,10 @@
 label: template_1
 hide_body: true
 fields:
-- name: blocks
-  type: blocks
-  label: blocks
-  template_types: []
+- name: title
+  type: text
   config:
-    min: 
-    max: 
+    required: true
+  label: Title
+  description: page title
+  default: title
