@@ -46,10 +46,10 @@ This is a note.
 
 Code
 
-{{ < cmd > }}
+{{< cmd >}} 
 
 hugo server --gc
 
-{{ < /cmd >}}
+{{< /cmd >}}
 
 {{% tested using="Firefox + JAWS, Chrome, Safari iOS + Voiceover, Edge" %}}
