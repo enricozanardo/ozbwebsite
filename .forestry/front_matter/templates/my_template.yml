@@ -139,3 +139,5 @@ fields:
 - type: list
   name: menu
   label: menu
+pages:
+- content/posts/pippo.md
