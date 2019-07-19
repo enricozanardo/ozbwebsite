@@ -16,7 +16,7 @@ publishdate = "2019-07-19T13:58:55+02:00"
 tags = ["cpu"]
 textline = ""
 title = "Pippo"
-weight = nil
+weight = 1
 [cta]
 calls_to_action = []
 headline = "Bla Bla"
