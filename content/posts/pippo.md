@@ -38,7 +38,7 @@ $$ \\varphi = \\dfrac{1+\\sqrt5}{2} = 1.6180... $$
 
 ##### dfsffs
 
-\`\`\`{python} 
+\`\`\`{python  engine.path="/usr/local/bin/python" }  
 
 print(1 + 1) 
 
