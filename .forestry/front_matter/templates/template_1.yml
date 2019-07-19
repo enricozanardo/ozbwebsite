@@ -9,3 +9,5 @@ fields:
   label: Title
   description: page title
   default: title
+pages:
+- admin/admin-page.md
