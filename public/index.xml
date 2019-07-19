@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keix Kofee</title>
+    <title>Keix Koffee</title>
     <link>http://example.org/</link>
-    <description>Recent content on Keix Kofee</description>
+    <description>Recent content on Keix Koffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2019 10:10:56 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 19 Jul 2019 10:10:56 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>#Header
+##Using markdown</description>
+    </item>
     
     <item>
       <title></title>
@@ -18,6 +29,15 @@
       <guid>http://example.org/test/</guid>
       <description>Bla Bla
 Piccolo.</description>
+    </item>
+    
+    <item>
+      <title>Template 1 -  Coffee Page</title>
+      <link>http://example.org/free-coffee-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/free-coffee-page/</guid>
+      <description></description>
     </item>
     
   </channel>
