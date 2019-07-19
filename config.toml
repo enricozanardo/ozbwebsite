@@ -1,6 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Keix Koffee"
 theme = "cupper-hugo-theme"
 
 [menu]
@@ -25,4 +24,3 @@ canonifyURLs = true
 [params]
   description = "Documentation for the **Keix CE**"
   codePenUser = "Enrico"
-
