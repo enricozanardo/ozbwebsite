@@ -1,5 +1,5 @@
 +++
 need_coffee = false
-title = "Free Coffee Page"
+title = "Template 1 -  Coffee Page"
 
 +++

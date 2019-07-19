@@ -13,5 +13,3 @@ fields:
   type: boolean
   label: need coffee
   description: need coffee
-pages:
-- content/free-coffee-page.md
