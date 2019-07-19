@@ -36,4 +36,5 @@ fields:
   label: note
   description: note
 pages:
+- content/posts/bla-bla.md
 - admin/admin-page.md
