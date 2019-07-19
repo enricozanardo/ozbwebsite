@@ -1,7 +1,7 @@
 +++
 aliases = []
-authors = []
-categories = []
+authors = ["Enrico Zanardo"]
+categories = ["Machine-Learning"]
 date = "2019-07-02T00:00:00+02:00"
 description = ""
 draft = true
@@ -23,4 +23,8 @@ headline = "Bla Bla"
 textline = ""
 
 +++
-Bla Bla new template
+\--
+
+# Machine Learning
+
+### H3 Header
