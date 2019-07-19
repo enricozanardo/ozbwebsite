@@ -29,4 +29,6 @@ textline = ""
 
 Here is possible to learn how to combine the [Keix Community Edition](http://keix.com) and the machine learning technologies such as neural networks.
 
+![](/uploads/kall.png)
+
  
