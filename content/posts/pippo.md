@@ -28,6 +28,17 @@ Here is possible to learn how to combine the [Keix Community Edition](http://kei
 
 ![](/uploads/kall.png)
 
+{{% note %}}
+
+This is a note.
+
+{{% /note %}}
+
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
  
+
+    {{% note %}}
+    This is a note! It's something the reader may like to know about but is supplementary to the main content. Use notes when something may be interesting but not critical.
+    {{% /note %}}
+    
