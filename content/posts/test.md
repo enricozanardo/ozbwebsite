@@ -15,7 +15,7 @@ publishdate = "2019-07-19T17:54:07+02:00"
 tags = []
 textline = ""
 title = "Test"
-weight = nil
+weight = 4
 [cta]
 calls_to_action = []
 headline = ""
