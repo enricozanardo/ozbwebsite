@@ -52,4 +52,4 @@ hugo server --gc
 
 {{ < /cmd >}}
 
-    {{% tested using="Firefox + JAWS, Chrome, Safari iOS + Voiceover, Edge" %}}
+{{% tested using="Firefox + JAWS, Chrome, Safari iOS + Voiceover, Edge" %}}
