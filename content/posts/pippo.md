@@ -15,7 +15,7 @@ private = false
 publishdate = "2019-07-19T13:58:55+02:00"
 tags = ["cpu"]
 textline = ""
-title = "Pippo"
+title = "Machine Learning"
 weight = 1
 [cta]
 calls_to_action = []
@@ -23,8 +23,6 @@ headline = "Bla Bla"
 textline = ""
 
 +++
-# Machine Learning
-
 ### H3 Header
 
 Here is possible to learn how to combine the [Keix Community Edition](http://keix.com) and the machine learning technologies such as neural networks.
