@@ -18,3 +18,11 @@ theme = "cupper-hugo-theme"
     pre = "<i class='fa fa-road'></i>"
     url = "/getting-started/"
     weight = -100
+
+
+canonifyURLs = true
+
+[params]
+  description = "Documentation for the **Keix CE**"
+  codePenUser = "Enrico"
+
