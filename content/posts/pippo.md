@@ -38,6 +38,17 @@ $$ \\varphi = \\dfrac{1+\\sqrt5}{2} = 1.6180... $$
 
 ##### dfsffs
 
+\`\`\`{python} 
+
+print(1 + 1) 
+
+\`\`\`
+
+    <<engine='python', engine.path='python3'>>=
+    
+
+    {{< code numbered="true" >}}
+
 {{% note %}}
 
 This is a note.
@@ -46,7 +57,7 @@ This is a note.
 
 Code
 
-{{< cmd >}} 
+{{< cmd >}}
 
 hugo server --gc
 
