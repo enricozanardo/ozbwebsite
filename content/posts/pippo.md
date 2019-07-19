@@ -7,7 +7,6 @@ description = ""
 expirydate = "2030-01-01T04:00:00.000+00:00"
 headline = ""
 images = []
-menu = []
 need_coffee = true
 photo_credit = ""
 private = false
@@ -20,6 +19,11 @@ weight = 1
 calls_to_action = []
 headline = ""
 textline = ""
+[menu.main]
+identifier = "about"
+name = "about hugo"
+pre = "<i class='fa fa-heart'></i>"
+weight = 1
 
 +++
 ### Neural Networks
