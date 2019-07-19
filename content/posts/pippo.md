@@ -30,6 +30,9 @@ Here is possible to learn how to combine the [Keix Community Edition](http://kei
 
 $$ \\varphi = \\dfrac{1+\\sqrt5}{2} = 1.6180... $$
 
+  
+ {{< tweet 877500564405444608 >}}
+
 {{% note %}}
 
 This is a note.
@@ -37,7 +40,7 @@ This is a note.
 {{% /note %}}
 
     $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
-
+    
     {{< cmd >}}
     hugo server --gc
     {{< /cmd >}}
