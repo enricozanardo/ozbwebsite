@@ -9,6 +9,12 @@ fields:
   label: Title
   description: page title
   default: title
+- name: page_image
+  type: file
+  config:
+    maxSize: 250
+  label: page image
+  description: header page image
 pages:
 - content/free-coffee-page.md
 - admin/admin-page.md
