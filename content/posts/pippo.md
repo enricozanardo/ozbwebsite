@@ -8,18 +8,18 @@ draft = true
 expirydate = "2030-01-01T04:00:00.000+00:00"
 headline = ""
 images = []
-menu = ["Menu?"]
+menu = []
 need_coffee = true
 photo_credit = ""
 private = false
 publishdate = "2019-07-19T13:58:55+02:00"
-tags = ["cpu"]
+tags = ["cpu", "machine learning"]
 textline = ""
 title = "Machine Learning"
 weight = 1
 [cta]
 calls_to_action = []
-headline = "Bla Bla"
+headline = ""
 textline = ""
 
 +++
