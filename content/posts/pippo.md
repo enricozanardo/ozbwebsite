@@ -51,3 +51,5 @@ Code
 hugo server --gc
 
 {{ < /cmd >}}
+
+    {{% tested using="Firefox + JAWS, Chrome, Safari iOS + Voiceover, Edge" %}}
