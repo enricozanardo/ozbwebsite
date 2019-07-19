@@ -138,4 +138,5 @@ fields:
   name: menu
   label: menu
 pages:
+- content/posts/my-first-post.md
 - content/posts/pippo.md
