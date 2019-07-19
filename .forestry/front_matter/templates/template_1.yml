@@ -26,5 +26,4 @@ fields:
   label: Content
   description: page content
 pages:
-- content/free-coffee-page.md
 - admin/admin-page.md
