@@ -11,7 +11,7 @@ need_coffee = true
 photo_credit = ""
 private = false
 publishdate = "2019-07-19T13:58:55+02:00"
-tags = ["cpu", "machine learning"]
+tags = ["cpu", "machine learning", "keix"]
 textline = ""
 title = "Machine Learning"
 weight = 1
@@ -35,6 +35,8 @@ Here is possible to learn how to combine the [Keix Community Edition](http://kei
 $$ \\varphi = \\dfrac{1+\\sqrt5}{2} = 1.6180... $$
 
 {{< tweet 877500564405444608 >}}
+
+##### dfsffs
 
 {{% note %}}
 
