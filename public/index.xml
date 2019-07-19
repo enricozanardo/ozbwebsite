@@ -2,41 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keix Koffee</title>
-    <link>http://example.org/</link>
+    <link>http://localhost:8080/</link>
     <description>Recent content on Keix Koffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jul 2019 10:10:56 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://localhost:8080/posts/my-first-post/</link>
       <pubDate>Fri, 19 Jul 2019 10:10:56 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>#Header
-##Using markdown</description>
+      <guid>http://localhost:8080/posts/my-first-post/</guid>
+      <description> Bla bla </description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:8080/posts/pippo/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/pippo/</guid>
+      <description>Neural Networks Here is possible to learn how to combine the Keix Community Edition and the machine learning technologies such as neural networks.
+$$ \varphi = \dfrac{1+\sqrt5}{2} = 1.6180&amp;hellip; $$
+Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
+&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017     This is a note.   {{ &amp;lt; cmd &amp;gt; }}
+hugo server &amp;ndash;gc</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/test/</link>
+      <link>http://localhost:8080/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/test/</guid>
+      <guid>http://localhost:8080/about/</guid>
+      <description>Enrico Zanardo
+Bla Bla Bla</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/test/</guid>
       <description>Bla Bla
 Piccolo.</description>
     </item>
     
     <item>
-      <title>Template 1 -  Coffee Page</title>
-      <link>http://example.org/free-coffee-page/</link>
+      <title>Bla bla</title>
+      <link>http://localhost:8080/posts/bla-bla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/free-coffee-page/</guid>
+      <guid>http://localhost:8080/posts/bla-bla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template 1 -  Coffee Page</title>
+      <link>http://localhost:8080/free-coffee-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/free-coffee-page/</guid>
       <description></description>
     </item>
     

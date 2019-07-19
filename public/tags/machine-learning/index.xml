@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Keix Koffee</title>
-    <link>http://localhost:8080/posts/</link>
-    <description>Recent content in Posts on Keix Koffee</description>
+    <title>machine learning on Keix Koffee</title>
+    <link>http://localhost:8080/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Keix Koffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jul 2019 10:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:8080/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:8080/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:8080/posts/my-first-post/</link>
-      <pubDate>Fri, 19 Jul 2019 10:10:56 +0000</pubDate>
-      
-      <guid>http://localhost:8080/posts/my-first-post/</guid>
-      <description> Bla bla </description>
-    </item>
     
     <item>
       <title>Machine Learning</title>
@@ -31,15 +22,6 @@ $$ \varphi = \dfrac{1+\sqrt5}{2} = 1.6180&amp;hellip; $$
 Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
 &amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017     This is a note.   {{ &amp;lt; cmd &amp;gt; }}
 hugo server &amp;ndash;gc</description>
-    </item>
-    
-    <item>
-      <title>Bla bla</title>
-      <link>http://localhost:8080/posts/bla-bla/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:8080/posts/bla-bla/</guid>
-      <description></description>
     </item>
     
   </channel>
