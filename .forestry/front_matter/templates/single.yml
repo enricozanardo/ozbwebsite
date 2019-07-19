@@ -1,0 +1,13 @@
+---
+label: single
+hide_body: false
+fields:
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+pages:
+- content/posts/hello.html

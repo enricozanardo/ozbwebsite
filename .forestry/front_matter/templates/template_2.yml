@@ -13,3 +13,14 @@ fields:
   type: boolean
   label: need coffee
   description: need coffee
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+pages:
+- content/posts/pippo.md

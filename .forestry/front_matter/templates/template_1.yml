@@ -25,5 +25,16 @@ fields:
       format: markdown
   label: Content
   description: page content
+- name: note
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: note
+  description: note
 pages:
+- content/posts/bla-bla.md
 - admin/admin-page.md
