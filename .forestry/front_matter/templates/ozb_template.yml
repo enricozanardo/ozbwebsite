@@ -22,4 +22,5 @@ fields:
   label: dropdown
   description: test dropdown
 pages:
+- content/test2.md
 - content/test.md
