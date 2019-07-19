@@ -1,0 +1,15 @@
+---
+label: template_2
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: page title
+  default: page title
+- name: need_coffee
+  type: boolean
+  label: need coffee
+  description: need coffee
