@@ -28,7 +28,7 @@ Here is possible to learn how to combine the [Keix Community Edition](http://kei
 
 ![](/uploads/kall.png)
 
-    $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
+$$ \\varphi = \\dfrac{1+\\sqrt5}{2} = 1.6180... $$
 
 {{% note %}}
 
