@@ -1,0 +1,25 @@
+---
+label: ozb_template
+hide_body: false
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+  description: my name
+- name: dropdown
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: dropdown
+  description: test dropdown
+pages:
+- content/test.md
