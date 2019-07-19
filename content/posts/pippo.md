@@ -14,7 +14,7 @@ publishdate = "2019-07-19T13:58:55+02:00"
 tags = ["cpu", "machine learning"]
 textline = ""
 title = "Machine Learning"
-weight = 0
+weight = nil
 [cta]
 calls_to_action = []
 headline = ""
@@ -41,6 +41,8 @@ $$ \\varphi = \\dfrac{1+\\sqrt5}{2} = 1.6180... $$
 This is a note.
 
 {{% /note %}}
+
+Code
 
 {{ < cmd > }}
 
