@@ -23,7 +23,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: content
+  label: Content
   description: page content
 pages:
 - content/free-coffee-page.md
